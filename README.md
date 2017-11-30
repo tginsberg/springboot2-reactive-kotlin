@@ -17,6 +17,7 @@ git clone https://github.com/tginsberg/springboot2-reactive-kotlin.git
 0. Gradle 4.0+
 1. Java 1.8
 2. Redis installed and ready to use
+3. A cursory understanding of reactive concepts and Spring Boot
 
 ### Running the server
 
