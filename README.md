@@ -1,10 +1,11 @@
 ## Reactive Spring Boot 2 with Kotlin
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![license](https://img.shields.io/github/license/tginsberg/springboot2-reactive-kotlin.svg)]()
 
 
 This code supports a [blog post I wrote](https://todd.ginsberg.com/post/springboot2-reactive-kotlin/), and implements a simple counter using Spring Boot 2.0, Kotlin, and Redis.
 
+**Update 2020-05-27:** There is a [new version of this project](https://github.com/tginsberg/springboot-reactive-kotlin-coroutines) using Kotlin Coroutines and an [accompanying blog post](https://todd.ginsberg.com/post/springboot-reactive-kotlin-coroutines/)!
 
 ### Getting The Code
 
